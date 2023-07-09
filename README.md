@@ -31,3 +31,4 @@ The only real creator is me. I created that method. And I have way more to share
 
 A selfbot made by Me : Discord : " ????#???? "
 The only real creator is me. I created that method. And I have way more to share you x)
+When u lock the gc, It will not send anything it will just be a blank space ( basically it sends a blank space so u know its working)
