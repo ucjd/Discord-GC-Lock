@@ -6,7 +6,7 @@ Working on an AntiBan,Mute,LockChannel etc ... On servers. But I dont leak it ye
 
 How to use :
 
-Replace " yourtokenhere " by your Discord Token and launch it ( line 8 ), you wait 3 seconds and when you see a " Connected Master " that pop up
+Replace " yourtokenhere " by your Discord Token and launch it ( line 10 ), you wait 3 seconds and when you see a " Connected, command is ;l GroupChat ID ;u for unlock. " that pop up
 you can use it :
 
 The Command is " ;l GroupChatID "
