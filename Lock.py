@@ -71,7 +71,4 @@ async def u(ctx, groupid=None):
         DiscordHacks.lockgc.clear()
         print(f'Unlocked All Groups')
 
-try:
-    DiscordHacks.run(token)
-except KeyboardInterrupt:
-    STARTUPINFO()
+DiscordHacks.run(token, reconnect=True)
