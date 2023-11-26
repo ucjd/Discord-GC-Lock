@@ -6,15 +6,15 @@ Working on an AntiBan,Mute,LockChannel etc ... On servers. But I dont leak it ye
 
 How to use :
 
-Replace " yourtokenhere " by your Discord Token and launch it ( line 10 ), you wait 3 seconds and when you see a " Connected, command is ;l GroupChat ID ;u for unlock. " that pop up
+Replace " yourtokenhere " by your Discord Token and launch it ( line 10 ), you wait 3 seconds and when you see a " Connected master " that pop up
 you can use it :
 
-The Command is " ;l GroupChatID "
-To unlock it " ;u "
+The Command is " ;lock GroupChatID "
+To unlock it " ;unlock "
 
 to take a groupchat id, just right click on the group chat and do " Copy ID " or search on google.
 
-example : " ;l 982665203420385281 "
+example : " ;lock 982665203420385281 "
 
 It will take 120 seconds to unlock because it rate limit a request.
 
@@ -31,4 +31,3 @@ The only real creator is me. I created that method. And I have way more to share
 
 A selfbot made by Me : Discord : " ????#???? "
 The only real creator is me. I created that method. And I have way more to share you x)
-When u lock the gc, It will not send anything it will just be a blank space ( basically it sends a blank space so you know its working)
