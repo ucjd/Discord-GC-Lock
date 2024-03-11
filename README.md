@@ -35,5 +35,5 @@ The only real creator is me. I created that method. And I have way more to share
 
 
 
-A selfbot made by Me : Discord : " Gyruz#0001 "
+A selfbot made by Me
 The only real creator is me. I created that method. And I have way more to share you x)
