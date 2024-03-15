@@ -1,6 +1,6 @@
 # Discord-Lock-GC V2
 
-This works on either discord.py-self or discord==1.7.3 and discord.py==1.7.3.
+This works on either discord.py-self or discord==1.7.3 and discord.py==1.7.3 .
 
 Enjoy ! I AM NOT RESPONSIBLE OF WHAT YOU DO WITH IT ! USE IT AS EDUCATIONAL PURPOSES ONLY !
 WHAT I ADDED :
