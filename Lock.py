@@ -1,7 +1,4 @@
-import asyncio
-import discord
-import requests
-import json
+import asyncio, discord, requests, json
 from discord.ext import commands
 from discord.utils import get
 
